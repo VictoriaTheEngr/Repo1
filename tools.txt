@@ -1,0 +1,5 @@
+SDLC
+Linux
+Scripting
+Git
+Aws is a cloud computing provider
