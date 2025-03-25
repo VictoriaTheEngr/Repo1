@@ -1,2 +1,2 @@
-java web application
-java banking application
+Java Banking application
+Java ecommerce application
